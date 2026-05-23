@@ -2,7 +2,7 @@
 
 **iOS engineer** building **SwiftUI** apps with **Clean Architecture**, **MVVM-C**, and **Swift Concurrency** — focused on **fintech-inspired** demos aligned with modern banking UX (offline-first data, secure flows, modular features).
 
-📍 India · Open to iOS roles · [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN) · [Blog](https://www.learningiphonesdk.blogspot.com)
+📍 India · Open to iOS roles · [LinkedIn](https://www.linkedin.com/in/vishwa-deepak-choudhary-8619ab3b/) · [Blog](https://www.learningiphonesdk.blogspot.com)
 
 ---
 
