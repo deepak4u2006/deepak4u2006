@@ -1,22 +1,35 @@
 # Hi, I'm Vishwa Deepak Choudhary
 
 **iOS engineer** building **SwiftUI** apps with **Clean Architecture**, **MVVM-C**, and **Swift Concurrency** — focused on **fintech-inspired** demos aligned with modern banking UX (offline-first data, secure flows, modular features).
+iOS engineer building **fintech-style portfolio demos** (Swift, SwiftUI, MVVM-C, VIP, SPM, security).
 
-📍 India · Open to iOS roles · [LinkedIn](https://www.linkedin.com/in/vishwa-deepak-choudhary-8619ab3b/) · [Blog](https://www.learningiphonesdk.blogspot.com)
+## 🔗 Links
+
+- **Portfolio index:** [ios-portfolio](https://github.com/deepak4u2006/ios-portfolio)
+- **Flagship app:** [PulseLedger](https://github.com/deepak4u2006/PulseLedger)
+- **Blog:** [learningiphonesdk.blogspot.com](https://learningiphonesdk.blogspot.com)
+
+## 📌 Pinned repos (recommended)
+
+| Repo | Focus |
+|------|--------|
+| [PulseLedger](https://github.com/deepak4u2006/PulseLedger) | Neobank host app — MVVM-C, VIP, local SPM |
+| [VaultFlow](https://github.com/deepak4u2006/VaultFlow) | Flow onboarding + Keychain + Face ID |
+| [SecureWarrior](https://github.com/deepak4u2006/SecureWarrior) | Keychain, biometrics, Secure Enclave |
+| [ModuPay](https://github.com/deepak4u2006/ModuPay) | SPM feature modules |
+| [BridgeKit](https://github.com/deepak4u2006/BridgeKit) | UIKit ↔ SwiftUI bridges |
+| [ios-portfolio](https://github.com/deepak4u2006/ios-portfolio) | Index of all demos |
+
+## 🛠 Stack
+
+Swift · SwiftUI · UIKit · SPM · async/await · Combine · Keychain · LocalAuthentication · XcodeGen · GitHub Actions
 
 ---
 
-## Featured iOS work
+*Copy this file to [github.com/deepak4u2006/deepak4u2006](https://github.com/deepak4u2006/deepak4u2006) as `README.md` (profile README).*
 
-| Project | What it shows |
-|--------|----------------|
-| [**PulseLedger**](https://github.com/deepak4u2006/PulseLedger) | Fintech dashboard · SwiftData · MVVM · `actor` repository |
-| [**VaultFlow**](https://github.com/deepak4u2006/VaultFlow) | Step-driven onboarding · Flow-style navigation · Face ID |
-| [**CountriesVIP**](https://github.com/deepak4u2006/CountriesVIP) | VIP (Clean) · async networking · SwiftUI |
+*Fintech-inspired demos — not affiliated with Revolut Ltd.*
 
-More demos: [ios-portfolio](https://github.com/deepak4u2006/ios-portfolio) · [FXPulse](https://github.com/deepak4u2006/FXPulse) · [ModuPay](https://github.com/deepak4u2006/ModuPay)
-
----
 
 ## Stack I care about
 
